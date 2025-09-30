@@ -39,9 +39,9 @@ Readings
 The First Globalization
 {{< tdclose >}}
 {{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262650595) O'Rourke, K. H., and J. G. Williamson. [_Globalization and History_](https://mitpress.mit.edu/9780262650595). Cambridge, MA: MIT Press, 2001. ISBN: 9780262650595.
+{{% resource_link "9652fe3a-876c-41ed-9188-f7aa1a8257d5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} O'Rourke, K. H., and J. G. Williamson. {{% resource_link "9652fe3a-876c-41ed-9188-f7aa1a8257d5" "_Globalization and History_" %}}. Cambridge, MA: MIT Press, 2001. ISBN: 9780262650595.
 
-Bordo, M., B. Eichengreen, and D. Irwin. "[Is Globalization Today Really Different than Globalization 100 years Ago?](http://www.nber.org/papers/W7195)" National Bureau of Economic Research Working Paper No. 7195, 1999.
+Bordo, M., B. Eichengreen, and D. Irwin. "{{% resource_link "146b58fb-7a41-4437-a1e2-c6711fcc5e19" "Is Globalization Today Really Different than Globalization 100 years Ago?" %}}" National Bureau of Economic Research Working Paper No. 7195, 1999.
 
 
 {{< tdclose >}}
@@ -209,7 +209,7 @@ Iversen, Torben, and Anne Wren. "Equality, Employment and Budgetary Restraint: T
 
 Burtless, Gary. "International Trade and the Rise in Earnings Inequality." _Journal of Economic Literature_ 33 (June 1995): 800-16.
 
-Sala-i-Martin, Xavier. "[The Disturbing 'Rise' of Global Income Inequality.](http://www.nber.org/papers/W8904)" National Bureau of Economic Research Working Paper No. 8904, April 2004.
+Sala-i-Martin, Xavier. "{{% resource_link "048f2c2d-0beb-4459-a3ee-a00a744aff8a" "The Disturbing 'Rise' of Global Income Inequality." %}}" National Bureau of Economic Research Working Paper No. 8904, April 2004.
 
 
 {{< tdclose >}}
@@ -291,7 +291,7 @@ Globalization and Politics
 
 Frieden, Jeffry. "Invested Interests: The Politics of National Economic Policies in a World of Global Finance." _International Organization_ 45 (1991): 425-451.
 
-Scheve, Kenneth, and Matthew Slaughter. "[What Determines Individual Trade Policy Preferences?](http://www.nber.org/papers/W6531)" National Bureau of Economic Research Working Paper No. 6531, April 1998.
+Scheve, Kenneth, and Matthew Slaughter. "{{% resource_link "9f45f57e-f100-4187-b464-aa9400641398" "What Determines Individual Trade Policy Preferences?" %}}" National Bureau of Economic Research Working Paper No. 6531, April 1998.
 
 Ancelovici, Marcos. "Organizing Against Globalization: The Case of ATTAC in France." _Politics and Society_ 30, no. 3 (September 2002): 427-463.
 
